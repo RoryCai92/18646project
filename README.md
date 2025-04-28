@@ -1,5 +1,7 @@
 ## Getting Started
 
+I am running this code on ECE017 machine
+
 1. Build the executable:
    make
 
